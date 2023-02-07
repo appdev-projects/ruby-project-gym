@@ -30,35 +30,6 @@ If you are struggling, **try to experiment directly in the IRB environment** by 
 - think_fast
 - accumulate
 
-
-### two_fer.rb
-
-Two-fer or 2-fer is short for two for one. One for you and one for me.
-
-"One for X, one for me."
-When X is a name or "you".
-
-If the given name is "Alice", the result should be "One for Alice, one for me." 
-
-If no name is given, the result should be "One for you, one for me."
-
-### character_types
-
-Write a program that:  
-- Asks the user to enter a sentence.
-- Counts the total number of letters in the given sentence.
-- Counts the total number of spaces in the given sentence.
-- Counts the total numbers of digits in the given sentence.
-- Prints all the above information out.
-
-Example:
-```bash
-"Enter a sentence:"
-here 12 plus 25
-"Number of letters in the string is: 8"
-"Number of spaces in the string is: 3"
-"Number of digits in the string is: 4"
-```
 ### dice_roll
 
 Write a program that:
