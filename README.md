@@ -30,15 +30,6 @@ If you are struggling, **try to experiment directly in the IRB environment** by 
 - think_fast
 - accumulate
 
-### dice_roll
-
-Write a program that:
-- Ask the user for a guess at what number the die will land on and then generate a random dice roll (a number between 1 and 6).  
-- If the User guessed right, your program should print `You guessed correctly`  
-- If they didn't, you program should print `Shame on you. The die landed on x`
-
-Hint: Use the `rand` method for the dice roll.
-
 ### sum_odd_integers
 
 Write a program that receives any amount of numbers from a user separated by spaces.
