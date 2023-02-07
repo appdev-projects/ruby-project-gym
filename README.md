@@ -17,6 +17,8 @@ If you are struggling, **try to experiment directly in the IRB environment** by 
 
 ## Required exercises
 
+Instructions can be found in the top of the file for each.
+
 - black_jack
 - count_the
 - secret_encoder
@@ -30,35 +32,10 @@ If you are struggling, **try to experiment directly in the IRB environment** by 
 - think_fast
 - accumulate
 
-### accumulate.rb
 
-Add some code to this program so that is prints the history of answers given while being pestered whether we're there yet.
+## Extra Exercises
 
-For example,
-```bash
-"Are we there yet?"
- No
-"Are we there yet?"
- No
-"Are we there yet?"
- ... no
-"Are we there yet?"
- NO
-"Are we there yet?"
- @#*(&$*(@&%#
-"Are we there yet?"
- yes
-["no", "... no", "no", "@#*(&$*(@&%#", "yes"]
-```
-
-Key output
-
-Note that at the end of the dialogue, it printed an Array with:
-```bash
-["no", "... no", "no", "@#*(&$*(@&%#", "yes"]
-```
-
-_all the recorded answers should be lowercase_
+Instructions can be found below and in file headings.
 
 ### anagram.rb
 
