@@ -1,11 +1,11 @@
 # Ruby Practice
 
- 1. Open a file (e.g. `black_jack.rb`) in the editor window.
+ 1. Open a file (e.g. `character_types.rb`) in the editor window.
  1. Modify the file per the instructions on top.
- 1. Run your Ruby file by typing `ruby ` and then the name of the file you want to run in the terminal. If we want to run `black_jack.rb`, we can write the command:
+ 1. Run your Ruby file by typing `ruby ` and then the name of the file you want to run in the terminal. If we want to run `character_types.rb`, we can write the command:
 
       ```bash
-      ruby black_jack.rb
+      ruby character_types.rb
       ```
    
       Remember, if there are multiple files with similar names, start typing the name and then just press <kbd>Tab</kbd> on your keyboard to let the terminal complete the name. You rarely need to type full filenames out — use **tab completion**!
