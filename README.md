@@ -30,43 +30,6 @@ If you are struggling, **try to experiment directly in the IRB environment** by 
 - think_fast
 - accumulate
 
-### black_jack
-
-Write a program to play a variety of BlackJack.
-The program should ask the user to input two numbers separated by a space, and it should print their sum.
-
-Here's the catch: 
- if the sum is greater than 21, return 0, unless one of the numbers is 11. 
- In such a case, the 11 should be 'converted' to a 1 to prevent the sum from being exceeded.
-
-For example, given a 11 and 13 as input, the 11 should be 'converted' into a 1 so the total sum will be 14.
-
-### count_the
-
-Write a program that:  
-Asks the user to enter a sentence and then finds the number of times 'the' appears in the given string.  
-Your program should print: `'the' appeared x times`
-
-### secret_encoder
-
-Write a program that
-  asks the user for a secret message
-  and 'encode's the message by replacing vowels with other characters
-  Here is our secret code, don't tell anyone... a = 1, e = 2, i = 3, o = 4, u = 5
-
-Your program should print the encoded message.
-
-### secret_decorder
-
-We have a program to encode our messages, now can you write a way to decode them? 
-Remember our sercret code: a = 1, e = 2, i = 3, o = 4, u = 5.  
-Your program should:
-- ask for an encoded message
-- decode the message
-- print the decoded message.
-
-(Make sure to capitalize the first word in the decoded message)
-
 
 ### two_fer.rb
 
