@@ -148,14 +148,6 @@ b.abbreviate # => "CMOS"
 <details>
   <summary>Click here to see names of each test</summary>
 
-
-
-count_the.rb prints "'the' appeared 5 times" when the user enters 'the cabbage, the bagel, the apple, the drink, the bread' 
-
-count_the.rb prints 'the' appeared 3 times' when the user enters 'the, beginnning the end and the middle' 
-
-count_the.rb prints 'the' appeared 2 times' when the user enters 'the- then, the 
-
 secret_encoder.rb should print '3 n22d t4 b2 m4r2 s2cr2t', when the input is 'I need to be more secret' 
 
 secret_encoder.rb should print 'D4n't t2ll 1ny4n2 45r c4d2' when the input is 'Don't tell anyone our code' 

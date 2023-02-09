@@ -57,6 +57,19 @@ end
 ## count_the.rb
 
 ```ruby
+sentence = gets.chomp.downcase.split
+
+p sentence
+
+count = 0
+sentence.each do |word|
+  is_it_the = word.gsub(/[^a-z]/i, "")
+  if is_it_the == 'the'
+    count = count + 1
+  end
+end
+
+puts "'the' appeared #{count} times"
 ```
 
 ## sum_odd_integers.rb

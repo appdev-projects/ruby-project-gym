@@ -10,3 +10,14 @@
 #       (assuming the answer was 42).
 
 p "Enter a sentence:"
+
+
+# ~~~~~ Specs (make it do these things) ~~~~~
+#
+# count_the.rb prints "'the' appeared 5 times" when the user enters 'the cabbage, the bagel, the apple, the drink, the bread' 
+#
+# count_the.rb prints 'the' appeared 3 times' when the user enters 'the, beginnning the end and the middle' 
+#
+# count_the.rb prints 'the' appeared 2 times' when the user enters 'the- then, the 
+#
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
