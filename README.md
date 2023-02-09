@@ -148,22 +148,6 @@ b.abbreviate # => "CMOS"
 <details>
   <summary>Click here to see names of each test</summary>
 
-think_fast.rb prints '5 is odd' when when the random number is '5' 
-
-think_fast.rb prints '40 is even' when the random number is '40' 
-
-think_fast.rb prints 'you may pass' when `some_random_input` is 'true' 
-
-think_fast.rb prints 'you may not pass' when `some_random_input` is 'false' 
-
-think_fast.rb prints '[:city, :state, :zip]' when `some_random_input` is a Hash 
-
-think_fast.rb prints 'hello!' when `some_random_input` is a 'Hello! 
-
-think_fast.rb prints ':goodbye' when `some_random_input` is a ':GOODBYE 
-
-think_fast.rb prints 'monday' when `some_random_input` is a Time and the current day is a Monday 
-
 accumulate.rb prints 'Are we there yet?' 5 times when the user enters 'yes' after 4 other tries'
 
 accumulate.rb prints an Array of the words the user entered, '["no", "no", "no", "no", "yes"]' 
