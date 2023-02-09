@@ -2,24 +2,8 @@
 
 This project is associated with the [Ruby Gym](https://firstdraft.github.io/appdev-textbook/our-own-classes.html). The steps to open and run a GitPod project can be found [here](https://firstdraft.github.io/appdev-textbook/string.html#start-gitpod-project).
 
-## Extra Exercises
 
-Instructions can be found below and in file headings.
 
-### anagram.rb
-
-Anagram - a word, phrase, or name formed by rearranging the letters of another.
- For example, cinema is an anagram of iceman. 
-
-Your job is to write a program that receives two words from the user separated by a comma.
- Your program should print "true" if the words are anagrams of each other and "false" if they are not. 
-
-Example:
-```bash
-"Enter two words separated by a comma"
-cinema,iceman
-true
-```
 
 ### isogram.rb
 
@@ -147,12 +131,6 @@ b.abbreviate # => "CMOS"
 ## Specs
 <details>
   <summary>Click here to see names of each test</summary>
-
-anagram.rb prints "false" when the user enters 'hello,olmec' 
-
-anagram.rb prints "true" when the user enters 'elvis,lives' 
-
-anagram.rb prints "true" when the user enters 'anagram,nag a ram' 
 
 isogram.rb String.isogram?('angola') should return false 
 
