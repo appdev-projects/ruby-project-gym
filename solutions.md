@@ -31,7 +31,15 @@ end
 ## character_types.rb
 
 ```ruby
+sentence = gets.chomp
 
+letters = sentence.gsub(/[^a-z]/, "").length
+spaces = sentence.gsub(" ", "_").count("_")
+digits = sentence.gsub(/[^0-9]/, "").length
+
+p "Number of letters in the string is: #{letters}"
+p "Number of spaces in the string is: #{spaces}"
+p "Number of digits in the string is: #{digits}"
 ```
 
 ## two_fer.rb
