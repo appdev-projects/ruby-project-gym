@@ -11,3 +11,14 @@
 #       One for you, one for me.
 
 p "Enter a name:"
+
+
+# ~~~~~ Specs (make it do these things) ~~~~~
+#
+# two_fer.rb prints 'One for Alice, one for me!' if the user enters 'alice' 
+#
+# two_fer.rb prints 'One for Shreya, one for me!' if the user enters 'shreya' 
+#
+# two_fer.rb prints 'One for you, one for me!' if the user enters nothing  
+#
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

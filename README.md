@@ -148,12 +148,6 @@ b.abbreviate # => "CMOS"
 <details>
   <summary>Click here to see names of each test</summary>
 
-two_fer.rb prints 'One for Alice, one for me!' if the user enters 'alice' 
-
-two_fer.rb prints 'One for Shreya, one for me!' if the user enters 'shreya' 
-
-two_fer.rb prints 'One for you, one for me!' if the user enters nothing 
-
 character_types.rb finds 8 letters, 3 spaces, and 4 digits when the user enters 'here 12 plus 25' 
 
 character_types.rb finds 4 letters, 5 spaces, and 7 digits when the user enters 'game 1 12 58 09 ' 

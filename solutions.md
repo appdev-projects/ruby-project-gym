@@ -37,6 +37,13 @@ end
 ## two_fer.rb
 
 ```ruby
+name = gets.chomp
+
+if name != ""
+  p "One for #{name.capitalize}, one for me."
+else
+  p "One for you, one for me."
+end
 ```
 
 ## dice_roll.rb
