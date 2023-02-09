@@ -148,11 +148,7 @@ b.abbreviate # => "CMOS"
 <details>
   <summary>Click here to see names of each test</summary>
 
-sum_odd_integers.rb prints "14" when the user enters '9 5 4' 
 
-sum_odd_integers.rb prints "0" when the user enters '2 4 6 8' 
-
-sum_odd_integers.rb prints "5" when the user enters '1 1 3' 
 
 leap_year.rb prints '2016 is a leap year!' if the user enters '2016' 
 

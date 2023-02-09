@@ -99,6 +99,16 @@ puts "'the' appeared #{count} times"
 ## sum_odd_integers.rb
 
 ```ruby
+numbers = gets.chomp.split
+
+count = 0
+numbers.each do |n|
+  if n.to_i.odd?
+    count = count + n.to_i
+  end
+end
+
+p count
 ```
 
 ## accumulate.rb

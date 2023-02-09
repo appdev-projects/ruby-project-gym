@@ -13,3 +13,14 @@
 #   16
 
 p "Enter at least 2 numbers, separated by spaces:"
+
+
+# ~~~~~ Specs (make it do these things) ~~~~~
+#
+# sum_odd_integers.rb prints "14" when the user enters '9 5 4' 
+#
+# sum_odd_integers.rb prints "0" when the user enters '2 4 6 8' 
+#
+# sum_odd_integers.rb prints "5" when the user enters '1 1 3' 
+#
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
