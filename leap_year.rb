@@ -18,3 +18,16 @@
 #   - 2100 is not a leap year (evenly divisible by 4, and by 100, but not by 400)
 
 p "Enter a year:"
+
+
+# ~~~~~ Specs (make it do these things) ~~~~~
+#
+# leap_year.rb prints '2016 is a leap year!' if the user enters '2016' 
+#
+# leap_year.rb prints '1804 is a leap year!' if the user enters '1804' 
+#
+# leap_year.rb prints '1800 is not a leap year.' if the user enters '1800' 
+#
+# leap_year.rb prints '2200 is not a leap year.' if the user enters '2200' 
+#
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

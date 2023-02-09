@@ -71,6 +71,17 @@ end
 ## leap_year.rb
 
 ```ruby
+year = gets.chomp.to_i
+
+if year%4 != 0
+  p "#{year} is not a leap year."
+else
+  if year%100 == 0 && year%400 != 0
+    p "#{year} is not a leap year."
+  else
+    p "#{year} is a leap year!"
+  end
+end
 ```
 
 ## raindrops.rb

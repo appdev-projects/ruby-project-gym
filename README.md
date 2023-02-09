@@ -148,16 +148,6 @@ b.abbreviate # => "CMOS"
 <details>
   <summary>Click here to see names of each test</summary>
 
-
-
-leap_year.rb prints '2016 is a leap year!' if the user enters '2016' 
-
-leap_year.rb prints '1804 is a leap year!' if the user enters '1804' 
-
-leap_year.rb prints '1800 is not a leap year.' if the user enters '1800' 
-
-leap_year.rb prints '2200 is not a leap year.' if the user enters '2200' 
-
 raindrops.rb should print '52' when the input is '52' 
 
 raindrops.rb should print 'PlingPlangPlong' when the input is '105' 
