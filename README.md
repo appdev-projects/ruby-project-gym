@@ -3,33 +3,6 @@
 This project is associated with the [Ruby Gym](https://firstdraft.github.io/appdev-textbook/our-own-classes.html). The steps to open and run a GitPod project can be found [here](https://firstdraft.github.io/appdev-textbook/string.html#start-gitpod-project).
 
 
-
-
-### isogram.rb
-
-Determine if a word or phrase is an isogram.
-
-An isogram (also known as a "nonpattern word") is a word or phrase without a repeating letter, however spaces and hyphens are allowed to appear multiple times.
-
-Examples of isograms:
-
-lumberjacks
-background
-downstream
-six-year-old
-
-The word isograms, however, is not an isogram, because the s repeats.
-
-Your Job
-Define a class called String with a class method called isogram? that accepts one String argument, and returns true or false.
-
-Example
-
-```ruby
-String.isogram?("eleven") # => false
-String.isogram?("subdermatoglyphic") # => true
-```
-
 ### hamming.rb
 
 Calculate the Hamming difference between two DNA strands.
@@ -132,25 +105,6 @@ b.abbreviate # => "CMOS"
 <details>
   <summary>Click here to see names of each test</summary>
 
-isogram.rb String.isogram?('angola') should return false 
-
-isogram.rb String.isogram?('accentor') should return false 
-
-isogram.rb String.isogram?('Emily Jung Schwartzkopf') should return true 
-
-isogram.rb String.isogram?('six-year-old') should return 'true' 
-
-isogram.rb String.isogram?('thumbscrew-jappingly') should return 'false' 
-
-isogram.rb String.isogram?('thumbscrew-japingly') should return 'true' 
-
-isogram.rb String.isogram?('alphAbet') should return false 
-
-isogram.rb String.isogram?('eleven') should return false 
-
-isogram.rb String.isogram?('isogram') should return true 
-
-isogram.rb String.isogram?('') should return true 
 
 hamming.rb the distance_between 'GGACGGATTCTG' and 'AGGACGGATTCT' should return 9 
 
