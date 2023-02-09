@@ -33,3 +33,14 @@ while answer != "yes"
   
   answer = gets.chomp.downcase
 end
+
+
+# ~~~~~ Specs (make it do these things) ~~~~~
+#
+# accumulate.rb prints 'Are we there yet?' 5 times when the user enters 'yes' after 4 other tries'
+#
+# accumulate.rb prints an Array of the words the user entered, '["no", "no", "no", "no", "yes"]' 
+#
+# accumulate.rb prints an Array of the words the user entered, '["no", "no", "123", "yeah", "yes"]' 
+#
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

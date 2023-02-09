@@ -148,12 +148,6 @@ b.abbreviate # => "CMOS"
 <details>
   <summary>Click here to see names of each test</summary>
 
-accumulate.rb prints 'Are we there yet?' 5 times when the user enters 'yes' after 4 other tries'
-
-accumulate.rb prints an Array of the words the user entered, '["no", "no", "no", "no", "yes"]' 
-
-accumulate.rb prints an Array of the words the user entered, '["no", "no", "123", "yeah", "yes"]' 
-
 anagram.rb prints "false" when the user enters 'hello,olmec' 
 
 anagram.rb prints "true" when the user enters 'elvis,lives' 

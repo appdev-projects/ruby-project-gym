@@ -148,6 +148,20 @@ p count
 ## accumulate.rb
 
 ```ruby
+answer = gets.chomp.downcase
+
+answers = [answer]
+
+while answer != "yes"
+  p "Are we there yet?"
+  
+  answer = gets.chomp.downcase
+  
+  answers.push(answer)
+  
+end
+
+p answers
 ```
 
 ## secret_encoder.rb
