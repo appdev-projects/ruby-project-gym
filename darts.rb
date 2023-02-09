@@ -29,3 +29,21 @@
 #     (x-j)^2 + (y-k)^2 = r^2
 
 p "Enter X,Y coordinates in the format 'X,Y'"
+
+
+
+# ~~~~~ Specs (make it do these things) ~~~~~
+# 
+# darts.rb prints '1 points' when the user enters '0,10 
+#
+# darts.rb prints '0 points' when the user enters '-9,9 
+#
+# darts.rb prints '5 points' when the user enters '-5,0 
+#
+# darts.rb prints '5 points' when the user enters '0.8,-0.8 
+#
+# darts.rb prints '10 points' when the user enters '0,-1 
+#
+# darts.rb prints '10 points' when the user enters '0,0 
+#
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
