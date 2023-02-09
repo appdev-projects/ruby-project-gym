@@ -87,6 +87,29 @@ end
 ## raindrops.rb
 
 ```ruby
+integer = gets.chomp.to_i
+
+if integer%3 != 0 && integer%5 != 0 && integer%7 != 0
+  p integer
+end
+
+rain = String.new
+
+if integer%3 == 0
+  rain = rain + "Pling"
+end
+
+if integer%5 == 0
+  rain = rain + "Plang"
+end
+
+if integer%7 == 0
+  rain = rain + "Plong"
+end
+
+if rain.length > 0
+  p rain
+end
 ```
 
 ## count_the.rb

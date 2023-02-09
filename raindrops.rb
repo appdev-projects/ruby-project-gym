@@ -37,3 +37,24 @@
 #       "PlingPlong"
 
 p "Enter an integer"
+
+
+# ~~~~~ Specs (make it do these things) ~~~~~
+#
+# raindrops.rb should print '52' when the input is '52' 
+#
+# raindrops.rb should print 'PlingPlangPlong' when the input is '105' 
+#
+# raindrops.rb should print 'Plang' when the input is '3125' 
+#
+# raindrops.rb should print 'Plong' when the input is '49' 
+#
+# raindrops.rb should print 'PlangPlong' when the input is '35' 
+#
+# raindrops.rb should print 'Plang' when the input is '25' 
+#
+# raindrops.rb should print 'PlingPlong' when the input is '21' 
+#
+# raindrops.rb should print 'PlingPlang' when the input is '15' 
+#
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
