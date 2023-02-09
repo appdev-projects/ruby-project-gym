@@ -148,14 +148,6 @@ b.abbreviate # => "CMOS"
 <details>
   <summary>Click here to see names of each test</summary>
 
-secret_encoder.rb should print '3 n22d t4 b2 m4r2 s2cr2t', when the input is 'I need to be more secret' 
-
-secret_encoder.rb should print 'D4n't t2ll 1ny4n2 45r c4d2' when the input is 'Don't tell anyone our code' 
-
-secret_decoder.rb prints 'I need to be more secret', when the input is '3 n22d t4 b2 m4r2 s2cr2t' 
-
-secret_decoder.rb prints 'Don't tell anyone our code', when the input is 'D4n't t2ll 1ny4n2 45r c4d2' 
-
 two_fer.rb prints 'One for Alice, one for me!' if the user enters 'alice' 
 
 two_fer.rb prints 'One for Shreya, one for me!' if the user enters 'shreya' 

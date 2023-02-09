@@ -85,11 +85,46 @@ puts "'the' appeared #{count} times"
 ## secret_encoder.rb
 
 ```ruby
+secret = gets.chomp
+
+replacements = {
+  "a" => "1",
+  "A" => "1",
+  "e" => "2",
+  "E" => "2",
+  "i" => "3",
+  "I" => "3",
+  "o" => "4",
+  "O" => "4",
+  "u" => "5",
+  "U" => "5"
+}
+
+replacements.each do |find, replace|
+  secret = secret.gsub(find, replace)
+end
+
+p secret
 ```
 
 ## secret_decoder.rb
 
 ```ruby
+secret = gets.chomp
+
+replacements = {
+  "1" => "a",
+  "2" => "e",
+  "3" => "i",
+  "4" => "o",
+  "5" => "u",
+}
+
+replacements.each do |find, replace|
+  secret = secret.gsub(find, replace)
+end
+
+p secret.capitalize
 ```
 
 ## think_fast.rb

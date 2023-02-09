@@ -13,3 +13,12 @@
 # Your program should print the encoded message.
 
 p "Enter in the secret you want to encode"
+
+
+# ~~~~~ Specs (make it do these things) ~~~~~
+#
+# secret_encoder.rb should print '3 n22d t4 b2 m4r2 s2cr2t', when the input is 'I need to be more secret' 
+# 
+# secret_encoder.rb should print 'D4n't t2ll 1ny4n2 45r c4d2' when the input is 'Don't tell anyone our code'
+#
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

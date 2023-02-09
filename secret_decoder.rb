@@ -16,3 +16,12 @@
 
 
 p "Enter in the secret you want to decode"
+
+
+# ~~~~~ Specs (make it do these things) ~~~~~
+#
+# secret_decoder.rb prints 'I need to be more secret', when the input is '3 n22d t4 b2 m4r2 s2cr2t' 
+#
+# secret_decoder.rb prints 'Don't tell anyone our code', when the input is 'D4n't t2ll 1ny4n2 45r c4d2' 
+#
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
