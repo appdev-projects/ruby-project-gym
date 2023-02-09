@@ -13,3 +13,12 @@
 # Hint: Use the rand method for the dice roll.
 
 p "Enter a guess:"
+
+
+# ~~~~~ Specs (make it do these things) ~~~~~
+#
+# dice_roll.rb prints 'You guessed correctly' when the user enters a correct guess 
+# 
+# dice_roll.rb prints 'Shame on you' when the user enters an incorrect guess  
+#
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

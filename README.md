@@ -148,12 +148,6 @@ b.abbreviate # => "CMOS"
 <details>
   <summary>Click here to see names of each test</summary>
 
-
-
-dice_roll.rb prints 'You guessed correctly' when the user enters a correct guess 
-
-dice_roll.rb prints 'Shame on you' when the user enters an incorrect guess 
-
 sum_odd_integers.rb prints "14" when the user enters '9 5 4' 
 
 sum_odd_integers.rb prints "0" when the user enters '2 4 6 8' 

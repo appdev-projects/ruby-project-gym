@@ -57,6 +57,15 @@ end
 ## dice_roll.rb
 
 ```ruby
+guess = gets.chomp.to_i
+
+roll = rand(1..6)
+
+if guess == roll
+  p "You guessed correctly"
+else
+  p "Shame on you. The die landed on #{roll}"
+end
 ```
 
 ## leap_year.rb
