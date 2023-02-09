@@ -234,30 +234,3 @@ elsif some_random_input.class == Hash
   p some_random_input.keys
 end
 ```
-
-# Extra Practice Solutions
-
-## anagram.rb
-
-```ruby
-```
-
-## isogram.rb
-
-```ruby
-```
-
-## hamming.rb
-
-```ruby
-```
-
-## darts.rb
-
-```ruby
-```
-
-## phrase.rb
-
-```ruby
-```
