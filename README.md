@@ -148,13 +148,7 @@ b.abbreviate # => "CMOS"
 <details>
   <summary>Click here to see names of each test</summary>
 
-black_jack.rb prints "20" when the user enters '10 10' 
 
-black_jack.rb prints "14" when the user enters '13 11' 
-
-black_jack.rb prints "0" when the user enters '13 13' 
-
-black_jack.rb prints "12" when the user enters '11 11' 
 
 count_the.rb prints "'the' appeared 5 times" when the user enters 'the cabbage, the bagel, the apple, the drink, the bread' 
 
